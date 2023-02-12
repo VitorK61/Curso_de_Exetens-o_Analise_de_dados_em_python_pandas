@@ -1,6 +1,6 @@
 # Curso_de_Exetens-o_Analise_de_dados_em_python_pandas
 
-Curso de Extensão - Analise da dados em Pythoo Pandas
+Curso de Extensão - Analise da dados em Python Pandas
 
 Professor: Henrique Poyatos
 
